@@ -4,6 +4,7 @@ Modding Architect for Age of History 3
 
 Your Visual Tool for Creating Age of History 3 Mods
 Modding Architect is a powerful desktop application designed to simplify and accelerate the mod creation process for Age of History 3. With its intuitive graphical interface, you can create civilizations, governments, and religions without manually editing JSON files.
+
 INSTALLATION:
 Download the latest release from the releases page and run it.
 
